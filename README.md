@@ -18,6 +18,6 @@ This is still under construction.
 + [TensorFlow Cleverhans](https://github.com/tensorflow/cleverhans)
 + [IBM Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
-## Contact
+## Contact Information
 
 If you're interested in discussing machine learning security further, feel free to contact me at `suhashussain1 'at' gmail.com`.
